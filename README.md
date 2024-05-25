@@ -4,6 +4,9 @@
 
 Sentiment Analysis using BERT is a natural language processing project aimed at analyzing the sentiment expressed in textual data. Leveraging the power of BERT (Bidirectional Encoder Representations from Transformers), this project provides a robust framework for understanding the sentiment of various forms of text, such as customer reviews, social media posts, and more.
 
+### Sample:
+![](https://github.com/2003HARSH/Sentiment-Analysis-using-BERT/blob/main/docs/static/bert_demo.jpeg)
+
 ## Features
 
 - **Contextual Understanding**: BERT captures the contextual nuances of language, enabling more accurate sentiment analysis by considering the entire sentence rather than individual words.
